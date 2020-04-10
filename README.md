@@ -1,4 +1,3 @@
 # SudokuSolver
-Solves sudoku puzzles from the website websudoku.com
-Please contact if you have any improvements or suggestions
-If you wish to use this code please let me know
+Solves sudoku puzzles
+Number entry can be improved -> find a way to create a GUI? or user interface _WinAPI 
